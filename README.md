@@ -37,6 +37,12 @@ On the terminal:
 1 - motion detected
 . - isn't
 If there is no movement for 30 secondts - person left
+
 Entry, exit times are recorded in the log.csv
+
+
+
+![adsf](HC-SR501_photo.jpg)
+
 
 
